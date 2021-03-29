@@ -16,4 +16,4 @@ código pronto, exceto códigos vistos em aula, configura plágio. Alguns sites 
 verificação de plágio. O prof. possui as resoluções dos anos anteriores
 
 
-[<img src="https://github.com/AnnaCMendes/Estrutura-de-Dados---EP1-Comparando-Algoritmos-de-Ordena-o/blob/main/EP1.PNG" width=115 > <br> <sub> @Anna Carolina <sub> DEV </sub>](https://github.com/AnnaCMendes)|
+![Alt Text](https://github.com/AnnaCMendes/Estrutura-de-Dados---EP1-Comparando-Algoritmos-de-Ordena-o/blob/main/EP1.PNG)
